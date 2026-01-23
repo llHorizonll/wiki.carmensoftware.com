@@ -17,7 +17,7 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 1.3. การสร้าง Currency Exchange Rate เพื่อกำหนดอัตราแลกเปลี่ยน
 
-1.4. กดปุ่ม Add <img src="/public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+1.4. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](CF-16.png)
 
@@ -52,7 +52,7 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 ![alt text](CF-19.png)
 
-1.10. กดปุ่ม <img src="/public/edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 3 ส่วน ได้แก่
+1.10. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 3 ส่วน ได้แก่
 
 - Buying Rate
 - Selling Rate
@@ -80,7 +80,7 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 ![alt text](CF-21.png)
 
-1.15. กดปุ่ม <img src="/public/del_icon.png" style="display: inline-block;" />
+1.15. กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./CF-22.png"  />
@@ -105,8 +105,8 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-1.18. กดปุ่ม <img src="/public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency Exchange Rate
+1.18. กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency Exchange Rate
 
-1.19. กดปุ่ม <img src="/public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
+1.19. กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
 
-1.20. กดปุ่ม <img src="/public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน
+1.20. กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน

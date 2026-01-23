@@ -13,7 +13,7 @@ lang: th-TH
 
 1.2. เลือก Unit
 
-1.3. กดปุ่ม Add <img src="/public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+1.3. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](CF-52.png)
 
@@ -74,7 +74,7 @@ lang: th-TH
 
 ![alt text](CF-56.png)
 
-1.14. กดปุ่ม <img src="/public/del_icon.png" style="display: inline-block;" />
+1.14. กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./CF-57.png"  />
@@ -99,8 +99,8 @@ lang: th-TH
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-1.17. กดปุ่ม <img src="/public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Unit Code
+1.17. กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Unit Code
 
-1.18. กดปุ่ม <img src="/public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลหน่วยออกจากระบบเป็น .csv
+1.18. กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลหน่วยออกจากระบบเป็น .csv
 
-1.19. กดปุ่ม <img src="/public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลหน่วย
+1.19. กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลหน่วย

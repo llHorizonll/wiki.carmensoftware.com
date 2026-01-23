@@ -13,7 +13,7 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 1.2. เลือก Currency
 
-1.3. กดปุ่ม Add <img src="/public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+1.3. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](CF-24.png)
 
@@ -48,7 +48,7 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 ![alt text](CF-26.png)
 
-1.9. กดปุ่ม <img src="/public/edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 2 ส่วน ได้แก่
+1.9. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 2 ส่วน ได้แก่
 
 - Currency
 - Decimal Currency
@@ -75,7 +75,7 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 ![alt text](CF-28.png)
 
-1.14. กดปุ่ม <img src="/public/del_icon.png" style="display: inline-block;" />
+1.14. กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./CF-29.png"  />
@@ -100,8 +100,8 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-1.17. กดปุ่ม <img src="/public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency
+1.17. กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency
 
-1.18. กดปุ่ม <img src="/public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
+1.18. กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
 
-1.19. กดปุ่ม <img src="/public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน
+1.19. กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน

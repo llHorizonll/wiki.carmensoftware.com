@@ -17,7 +17,7 @@ Function นี้ใช้สำหรับการสร้างใบแ�
 
 ![alt text](ar-2.png)
 
-1.3 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า A/R Invoice
+1.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า A/R Invoice
 
 1.4 ให้ผู้ใช้งานระบุข้อมูลของ A/R Invoice Header ดังต่อไปนี้
 
@@ -107,7 +107,7 @@ Function นี้ใช้ในกรณีที่ต้องการค�
 
 ![alt text](ar-8.png)
 
-2.4 กดปุ่ม <img src="/public/copy_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
+2.4 กดปุ่ม <img src="../public/copy_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
 
 ![alt text](ar-9.png)
 
@@ -138,7 +138,7 @@ Function นี้ใช้ในกรณีที่ต้องการค�
 
 3.2 เลือกฟังก์ชัน Invoice จะเข้าสู่หน้า A/R Invoice list
 
-3.3 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า A/R Invoice
+3.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า A/R Invoice
 
 ![alt text](ar-11.png)
 
@@ -178,7 +178,7 @@ Function นี้ใช้ในกรณีที่ต้องการค�
 
 3.10 กรณีต้องการแก้ไขข้อมูล
 
-3.11 ให้กดปุ่ม <img src="/public/edit_icon.svg" style="display: inline-block;" /> ด้านหน้ารายการ ระบบจะแสดงหน้าต่างให้แก้ไขข้อมูล
+3.11 ให้กดปุ่ม <img src="../public/edit_icon.svg" style="display: inline-block;" /> ด้านหน้ารายการ ระบบจะแสดงหน้าต่างให้แก้ไขข้อมูล
 
 3.12 แก้ไขแล้วกดปุ่ม **<span class="btn">OK</span>**
 
@@ -224,21 +224,21 @@ Function นี้ใช้ในกรณีที่ต้องการค�
 
 ![alt text](ar-20.png)
 
-<img src="/public/add_icon.png" style="display: inline-block;" /> สร้างใบแจ้งหนี้ใหม่
+<img src="../public/add_icon.png" style="display: inline-block;" /> สร้างใบแจ้งหนี้ใหม่
 
-<img src="/public/edit_icon.png" style="display: inline-block;" /> แก้ไขใบแจ้งหนี้ (เมื่อยังไม่ approve หรือ รับชำระแล้ว หรือ ยกเลิกแล้ว หรืออยู่ใน period ที่ปิดไปแล้ว)
+<img src="../public/edit_icon.png" style="display: inline-block;" /> แก้ไขใบแจ้งหนี้ (เมื่อยังไม่ approve หรือ รับชำระแล้ว หรือ ยกเลิกแล้ว หรืออยู่ใน period ที่ปิดไปแล้ว)
 
-<img src="/public/void_icon.png" style="display: inline-block;" /> การยกเลิกใบแจ้งหนี้ (เมื่อยังไม่ approve หรือ รับชำระแล้ว หรืออยู่ใน period ที่ปิดไปแล้ว)
+<img src="../public/void_icon.png" style="display: inline-block;" /> การยกเลิกใบแจ้งหนี้ (เมื่อยังไม่ approve หรือ รับชำระแล้ว หรืออยู่ใน period ที่ปิดไปแล้ว)
 
-<img src="/public/copy_icon.png" style="display: inline-block;" /> การคัดลอกใบแจ้งหนี้
+<img src="../public/copy_icon.png" style="display: inline-block;" /> การคัดลอกใบแจ้งหนี้
 
-<img src="/public/print_icon.png" style="display: inline-block;" /> การพิมพ์ใบแจ้งหนี้
+<img src="../public/print_icon.png" style="display: inline-block;" /> การพิมพ์ใบแจ้งหนี้
 
-<img src="/public/print_voucher_icon.png" style="display: inline-block;" /> การพิมพ์เอกสารบันทึกบัญชีใบแจ้งหนี้
+<img src="../public/print_voucher_icon.png" style="display: inline-block;" /> การพิมพ์เอกสารบันทึกบัญชีใบแจ้งหนี้
 
-<img src="/public/receipt_icon.png" style="display: inline-block;" /> การตรวจสอบเอกสารชำระเงินที่ได้รับชำระเงินจากใบแจ้งหนี้ใบที่เปิดอยู่
+<img src="../public/receipt_icon.png" style="display: inline-block;" /> การตรวจสอบเอกสารชำระเงินที่ได้รับชำระเงินจากใบแจ้งหนี้ใบที่เปิดอยู่
 
-<img src="/public/send_email_icon.png" style="display: inline-block;" /> การส่งใบแจ้งหนี้ไปยังลูกหนี้ในช่องทาง Email (ต้องมีการตั้งค่าก่อนเริ่มใช้งาน)
+<img src="../public/send_email_icon.png" style="display: inline-block;" /> การส่งใบแจ้งหนี้ไปยังลูกหนี้ในช่องทาง Email (ต้องมีการตั้งค่าก่อนเริ่มใช้งาน)
 
 **ตัวอย่าง A/R Voucher**
 

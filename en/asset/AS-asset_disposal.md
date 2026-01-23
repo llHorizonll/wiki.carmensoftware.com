@@ -50,7 +50,7 @@ lang: th-TH
 
 ![alt text](asset-36.png)
 
-2.3. กดปุ่ม <img src="/public/disposal_icon.png" style="display: inline-block;" />
+2.3. กดปุ่ม <img src="../public/disposal_icon.png" style="display: inline-block;" />
 
 ![alt text](asset-37.png)
 

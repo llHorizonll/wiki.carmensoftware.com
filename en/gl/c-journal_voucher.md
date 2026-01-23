@@ -13,7 +13,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 1.2 เลือกเมนู Journal Voucher
 
-1.3 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" />
+1.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](gl-110.png)
 
@@ -85,7 +85,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 2.4 ระบบจะเปิด JV ที่เลือกมา
 
-2.5 Click เมนูคำสั่ง <img src="/public/copy_icon.png" style="display: inline-block;" /> เพื่อทำการคัดลอก JV ใบนั้น
+2.5 Click เมนูคำสั่ง <img src="../public/copy_icon.png" style="display: inline-block;" /> เพื่อทำการคัดลอก JV ใบนั้น
 
 ![alt text](gl-7.png)
 
@@ -106,7 +106,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 2.6.1.1.เปิดเอกสาร JV ที่ต้องการ copy
 
-2.6.1.2 Click เลือก <img src="/public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher
+2.6.1.2 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher
 
 2.6.1.3 Click **<span class="btn">OK</span>** เพื่อยืนยันการคัดลอก
 
@@ -138,7 +138,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 2.6.1.6 เปิดเอกสาร JV ที่ต้องการคัดลอก
 
-2.6.1.7 Click เลือก <img src="/public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy and reverse transaction
+2.6.1.7 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy and reverse transaction
 
 2.6.1.8 Click **<span class="btn">OK</span>** เพื่อยืนยันการคัดลอก
 
@@ -164,7 +164,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 ![alt text](gl-16.png)
 
-2.6.1.12 Click เลือก <img src="/public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher with zero amount
+2.6.1.12 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher with zero amount
 
 <p align="center">
     <img src="./gl-17.png"  />

@@ -45,7 +45,7 @@ lang: th-TH
 
    2.2. เลือกฟังก์ชัน Payment
 
-   2.3. กดปุ่ม Add <img src="/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า AP Payment <img src="./ap-111.png"  />
+   2.3. กดปุ่ม Add <img src="./add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า AP Payment <img src="./ap-111.png"  />
 
    2.4. บันทึกข้อมูล Payment ตามปกติ
 

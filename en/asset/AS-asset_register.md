@@ -88,16 +88,16 @@ Depre Account กำหนด Account Code ที่จะใช้บันท�
 
 ***ค่าเสื่อมราคา = ( (ราคาต้นทุน – ค่าเสื่อมราคาสะสม – มูลค่าซาก) / อายุการใช้งานทั้งหมด (วัน) ) *จำนวนวันของแต่ละเดือน
 
-<img src="/public/add_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการจะสร้างเอกสารบันทึกข้อมูล Assets Details ใหม่ <br/>
-<img src="/public/edit_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการแก้ไขข้อมูลในเอกสารที่ทำการบันทึกไปเรียบร้อยแล้ว <br/>
-<img src="/public/del_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการลบเอกสารที่ได้บันทึกไปแล้ว <span style="color:red">(สินทรัพย์ที่อยู่ใน Period ที่ปิดไปแล้วจะไม่สามารถลบข้อมูล และแก้ไขได้เพียง account code เท่านั้น)</span> <br/>
-<img src="/public/copy_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการคัดลอกข้อมูลจากประเภทสินทรัพย์ชนิดเดียวกัน มีข้อมูลเหมือนกัน เพื่อต้องการแตก
+<img src="../public/add_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการจะสร้างเอกสารบันทึกข้อมูล Assets Details ใหม่ <br/>
+<img src="../public/edit_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการแก้ไขข้อมูลในเอกสารที่ทำการบันทึกไปเรียบร้อยแล้ว <br/>
+<img src="../public/del_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการลบเอกสารที่ได้บันทึกไปแล้ว <span style="color:red">(สินทรัพย์ที่อยู่ใน Period ที่ปิดไปแล้วจะไม่สามารถลบข้อมูล และแก้ไขได้เพียง account code เท่านั้น)</span> <br/>
+<img src="../public/copy_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการคัดลอกข้อมูลจากประเภทสินทรัพย์ชนิดเดียวกัน มีข้อมูลเหมือนกัน เพื่อต้องการแตก
 รายการสินทรัพย์ให้มีจำนวนมากกว่า 1 รายการ
 <br/>
-<img src="/public/disposal_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการทราบรายละเอียดการตัดจำหน่ายสินทรัพย์ <br/>
-<img src="/public/preasset_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการสร้างทะเบียนสินทรัพย์จาก Pre-Register Asset <br/>
-<img src="/public/print_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Register Asset Form <br/>
-<img src="/public/print_barcode_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Barcode <br/>
+<img src="../public/disposal_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการทราบรายละเอียดการตัดจำหน่ายสินทรัพย์ <br/>
+<img src="../public/preasset_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการสร้างทะเบียนสินทรัพย์จาก Pre-Register Asset <br/>
+<img src="../public/print_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Register Asset Form <br/>
+<img src="../public/print_barcode_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Barcode <br/>
 
 2. การบันทึกสินทรัพย์ด้วยการ Copy จากสินทรัพย์ที่มีอยู่ในระบบ
 

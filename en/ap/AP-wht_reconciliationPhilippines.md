@@ -40,7 +40,7 @@ D ขั้นตอนการ Print “Certificate of Creditable Tax Withheld
 6.1	Exported คือ รายการที่ Export มาจาก AP Payment ไม่สามารถลบรายการออกไปได้ แต่สามารถแก้ไขข้อมูลได้บางส่วน ได้แก่ Payee, 
 Address, Tax ID, Branch No โดยวิธีการแก้ไข ดังนี้
 
--	กดปุ่ม <img src="/public/edit_icon.svg" style="display: inline-block;" />หน้ารายการที่ต้องการแก้ไข 
+-	กดปุ่ม <img src="../public/edit_icon.svg" style="display: inline-block;" />หน้ารายการที่ต้องการแก้ไข 
 -	ระบบจะแสดงหน้าต่าง ให้แก้ไขข้อมูลได้บางส่วน ได้แก่ Payee ,Address, Tax ID, Branch No
 -	กดปุ่ม<img src="./ap-180.png" style="height: 1.8em; vertical-align: middle; display: inline;" />เพื่อบันทึกรายการ
 ![alt text](ap-166.png)

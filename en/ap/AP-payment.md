@@ -73,8 +73,8 @@ lang: th-TH
 •	หากมีมากกว่า 1 รายการให้ทำตามขั้นตอนในข้อ 6.9) จนครบ 
 ![alt text](ap-136.png)
 ระบบจะแสดงหน้าจอ ตัวอย่างตามภาพด้านล่าง 
-- กด<img src="/public/edit_icon.svg" style="display: inline-block;" />ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
-- กด<img src="/public/delete_icon.svg" style="display: inline-block;" />ในกรณีต้องการ ลบ ข้อมูลประเภท หัก ณ ที่จ่าย
+- กด<img src="../public/edit_icon.svg" style="display: inline-block;" />ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
+- กด<img src="../public/delete_icon.svg" style="display: inline-block;" />ในกรณีต้องการ ลบ ข้อมูลประเภท หัก ณ ที่จ่าย
 ![alt text](ap-137.png)
 7. เลื่อน scroll bar ลงที่ด้านล่างสุด ให้กำหนดรหัสผังบัญชีที่จะใช้บันทึกบัญชีไปที่ General Ledger Module ดังต่อไปนี้
 ![alt text](ap-138.png)

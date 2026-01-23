@@ -17,7 +17,7 @@ Function นี้ใช้สำหรับการนำใบแจ้ง�
 
 ![alt text](ar-58.png)
 
-1. กดปุ่ม <img src="./edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไข
+1. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไข
 
 ![alt text](ar-59.png)
 

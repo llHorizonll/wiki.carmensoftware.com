@@ -13,7 +13,7 @@ Function นี้ใช้สำหรับกำหนดข้อมูล�
 
 2. เลือก Company Profile
 
-3. กดปุ่ม <img src="/public/edit_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
+3. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
 
 ![alt text](CF-58.png)
 
