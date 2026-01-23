@@ -1,6 +1,11 @@
 ---
 title: AR Posting from PMS (PMS Interface)
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:44.950Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:43.453Z
 ---
 
 # AR Posting from PMS (PMS Interface)

@@ -1,6 +1,11 @@
 ---
 title: Currency
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:26.387Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:24.864Z
 ---
 
 # การสร้างสกุลเงิน (Currency)

@@ -1,6 +1,11 @@
 ---
 title: Apply Invoice for Advance Deposit
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:34.024Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:32.548Z
 ---
 
 # Apply Invoice for Advance Deposit

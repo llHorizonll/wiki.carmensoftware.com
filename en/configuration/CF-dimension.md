@@ -1,6 +1,11 @@
 ---
 title: Dimension
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:32.892Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:31.391Z
 ---
 
 # การสร้างประเภทการวิเคราะห์ข้อมูล Dimension

@@ -1,6 +1,11 @@
 ---
 title: Carmen Add-in
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:40.544Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:38.983Z
 ---
 
 # Carmen Add-in

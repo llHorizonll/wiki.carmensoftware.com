@@ -1,6 +1,11 @@
 ---
 title: Close Period for General Ledger Module
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:01.209Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:59.687Z
 ---
 
 # Close Period for General Ledger Module

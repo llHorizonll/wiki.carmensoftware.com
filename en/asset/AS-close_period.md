@@ -1,6 +1,11 @@
 ---
 title: Close Period for Asset Module
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:04.167Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:02.715Z
 ---
 
 # Close Period for Asset Module

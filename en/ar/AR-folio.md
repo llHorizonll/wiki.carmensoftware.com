@@ -1,6 +1,11 @@
 ---
 title: Folio
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:40.549Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:39.061Z
 ---
 
 # Folio

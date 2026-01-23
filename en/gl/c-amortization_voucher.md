@@ -1,6 +1,11 @@
 ---
 title: Amortization Voucher
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:56.857Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:55.318Z
 ---
 
 # Amortization Voucher

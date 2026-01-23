@@ -1,6 +1,11 @@
 ---
 title: Pre-Register Asset Setting
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:08.495Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:07.022Z
 ---
 
 # Pre-Register Asset Setting

@@ -1,6 +1,11 @@
 ---
 title: Posting Account Payable to GL
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:09.922Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:08.457Z
 ---
 
 # Posting Account Payable to GL

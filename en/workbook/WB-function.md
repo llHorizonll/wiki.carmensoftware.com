@@ -1,6 +1,11 @@
 ---
 title: Carmen Work Book Function
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:38.303Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:36.733Z
 ---
 
 # Carmen Work Book Function

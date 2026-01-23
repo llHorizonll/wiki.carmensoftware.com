@@ -1,3 +1,13 @@
+---
+title: AP-recevingToAp
+description: 
+published: true
+date: 2026-01-23T04:17:17.770Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:16.308Z
+---
+
 ## การ Post ข้อมูล Receiving เข้า A/P Invoice
 
 Function นี้ใช้สำหรับดึงข้อมูลจากระบบ Receiving เพื่อมาตั้งหนี้ เป็น Invoice มีขั้นตอนในระบบ ดังนี้

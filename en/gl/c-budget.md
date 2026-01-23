@@ -1,6 +1,11 @@
 ---
 title: Budget
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:59.017Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:57.536Z
 ---
 
 # Budget

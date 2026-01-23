@@ -1,6 +1,11 @@
 ---
 title: Pre-Register Asset
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:06.347Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:04.830Z
 ---
 
 # Pre-Register Asset

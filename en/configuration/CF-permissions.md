@@ -1,6 +1,11 @@
 ---
 title: Permissions
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:37.224Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:35.726Z
 ---
 
 # Permissions

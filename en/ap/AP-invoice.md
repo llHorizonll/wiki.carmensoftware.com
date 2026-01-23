@@ -1,6 +1,11 @@
 ---
 title: Invoice
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:13.466Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:11.958Z
 ---
 
 # ขั้นตอนการบันทึก A/P Invoice (User Manual)

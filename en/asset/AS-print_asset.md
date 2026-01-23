@@ -1,6 +1,11 @@
 ---
 title: Print Asset QR Code
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:10.649Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:09.165Z
 ---
 
 # Print Asset QR Code

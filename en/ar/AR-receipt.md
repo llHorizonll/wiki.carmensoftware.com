@@ -1,6 +1,11 @@
 ---
 title: Receipt
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:49.291Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:47.762Z
 ---
 
 # Receipt

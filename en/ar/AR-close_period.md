@@ -1,6 +1,11 @@
 ---
 title: Close Period For Account Receivable Module
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:36.199Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:34.694Z
 ---
 
 # Close Period For Account Receivable Module

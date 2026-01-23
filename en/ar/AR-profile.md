@@ -1,6 +1,11 @@
 ---
 title: A/R Profile
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:47.097Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:45.620Z
 ---
 
 # A/R Profile

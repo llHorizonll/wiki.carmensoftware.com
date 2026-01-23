@@ -1,6 +1,11 @@
 ---
 title: Asset Disposal
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:59.815Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:58.293Z
 ---
 
 # Asset Disposal

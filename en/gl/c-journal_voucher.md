@@ -1,6 +1,11 @@
 ---
 title: Journal Voucher
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:03.445Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:01.873Z
 ---
 
 # Journal Voucher

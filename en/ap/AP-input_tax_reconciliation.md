@@ -1,7 +1,13 @@
 ---
 title: Input Tax Reconciliation
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:09.090Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:07.501Z
 ---
+
 # Input Tax Reconciliation
 
 Function นี้ใช้สำหรับตรวจสอบใบกำกับภาษี และเลือกรายการเพื่อยืนยันภาษีซื้อ และออกรายงานภาษีซื้อ

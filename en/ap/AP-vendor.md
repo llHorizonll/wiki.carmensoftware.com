@@ -1,7 +1,13 @@
 ---
 title: Vendor
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:19.937Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:18.439Z
 ---
+
 # ขั้นตอนการสร้างข้อมูลร้านค้า หรือ ผู้ขายในระบบ (Create Vendor)
 
 1. คลิกเข้าสู่ Account Payable Module

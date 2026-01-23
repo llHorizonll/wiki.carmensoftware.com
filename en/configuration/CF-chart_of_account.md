@@ -1,6 +1,11 @@
 ---
 title: Chart Of Accounts
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:21.987Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:20.474Z
 ---
 
 # การสร้างรหัสบัญชี Chart Of Accounts

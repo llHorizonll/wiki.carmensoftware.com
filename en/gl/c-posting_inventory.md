@@ -1,6 +1,11 @@
 ---
 title: Inventory & Extra Cost Posting to GL
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:12.071Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:10.601Z
 ---
 
 # Inventory & Extra Cost Posting to GL

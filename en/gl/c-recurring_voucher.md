@@ -1,6 +1,11 @@
 ---
 title: Recurring Voucher
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:14.310Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:12.741Z
 ---
 
 # Recurring Voucher

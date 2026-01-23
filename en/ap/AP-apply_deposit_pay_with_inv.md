@@ -1,6 +1,11 @@
 ---
 title: Apply Deposit with Invoice
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:00.407Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:16:58.925Z
 ---
 
 # Apply Deposit with Invoice

@@ -1,6 +1,11 @@
 ---
 title: Input Tax Reconciliation Philippines
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:11.307Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:09.758Z
 ---
 
 # Input Tax Reconciliation

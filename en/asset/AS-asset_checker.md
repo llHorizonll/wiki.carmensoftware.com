@@ -1,6 +1,11 @@
 ---
 title: Asset Checker
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:57.621Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:56.108Z
 ---
 
 # Asset Checker

@@ -1,6 +1,11 @@
 ---
 title: Product License
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:39.345Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:37.901Z
 ---
 
 # Product License

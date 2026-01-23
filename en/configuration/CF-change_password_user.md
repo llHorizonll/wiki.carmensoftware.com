@@ -1,6 +1,11 @@
 ---
 title: Users-How To Change User and Password
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:19.787Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:18.288Z
 ---
 
 # Users-How To Change User and Password

@@ -1,6 +1,11 @@
 ---
 title: Company Profile
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:24.195Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:22.661Z
 ---
 
 # Company Profile

@@ -1,6 +1,11 @@
 ---
 title: Posting Account Receivable to GL
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:07.783Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:06.285Z
 ---
 
 # Posting Account Receivable to GL

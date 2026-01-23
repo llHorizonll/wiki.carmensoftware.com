@@ -1,8 +1,12 @@
 ---
 title: Asset Register
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:02.044Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:00.476Z
 ---
-
 
 # Asset Register
 

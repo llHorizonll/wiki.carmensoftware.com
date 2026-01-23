@@ -1,6 +1,11 @@
 ---
 title: System Preference
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:41.458Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:40.019Z
 ---
 
 # System Preference

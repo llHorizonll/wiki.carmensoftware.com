@@ -1,6 +1,11 @@
 ---
 title: Receipt for Advance Deposit
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:51.477Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:49.961Z
 ---
 
 # Receipt for Advance Deposit

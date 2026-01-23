@@ -1,6 +1,11 @@
 ---
 title: Department
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:30.716Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:29.222Z
 ---
 
 # การสร้างรหัสแผนก Department

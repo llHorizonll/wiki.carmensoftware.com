@@ -1,6 +1,11 @@
 ---
 title: Payment Type
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:35.056Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:33.566Z
 ---
 
 # Payment Type

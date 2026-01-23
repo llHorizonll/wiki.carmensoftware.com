@@ -1,7 +1,13 @@
 ---
 title: Withholding Tax Reconciliation Philippines
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:24.355Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:22.823Z
 ---
+
 # Withholding Tax Reconciliation
 
 ขั้นตอนการกระทบยอดหรือยันยันยอดภาษีหัก ณ ที่จ่าย

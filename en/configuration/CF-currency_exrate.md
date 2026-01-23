@@ -1,6 +1,11 @@
 ---
 title: Currency Exchange Rate
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:18:28.551Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:18:27.057Z
 ---
 
 # Currency Exchange Rate

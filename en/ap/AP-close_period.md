@@ -1,6 +1,11 @@
 ---
 title: Close Period for Account Payable Module
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:04.720Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:03.219Z
 ---
 
 # Close Period for Account Payable Module

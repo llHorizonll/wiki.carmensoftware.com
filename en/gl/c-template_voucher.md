@@ -1,6 +1,11 @@
 ---
 title: Template Voucher
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:19:16.518Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:19:14.984Z
 ---
 
 # Template Voucher

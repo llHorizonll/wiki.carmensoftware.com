@@ -1,7 +1,13 @@
 ---
 title: Withholding Tax Reconciliation
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:22.144Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:20.603Z
 ---
+
 # Withholding Tax Reconciliation
 
 ขั้นตอนการกระทบยอดหรือยันยันยอดภาษีหัก ณ ที่จ่าย

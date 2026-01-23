@@ -1,7 +1,13 @@
 ---
 title: Payment
-lang: th-TH
+description: 
+published: true
+date: 2026-01-23T04:17:15.644Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-23T04:17:14.129Z
 ---
+
 # ขั้นตอนการตัดชำระหนี้ A/P Payment
 1. เข้าสู่ Account Payable Module 
 2. เลือกฟังก์ชัน Payment ระบบจะแสดงหน้าจอ ตามภาพด้านล่าง
