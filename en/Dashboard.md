@@ -13,12 +13,8 @@ dateCreated: 2026-01-22T06:58:43.955Z
 Dashboard จะนำข้อมูลที่มีการบันทึกใน JV มาแสดงผล
 
 ## Statistical Highlight
-<<<<<<< HEAD
 
 <img src="./dashboard6.png" style="display: inline-block;" />
-=======
-<img src="./Dashboard/dashboard6.png" style="display: inline-block;" />
->>>>>>> 5e78776 (docs: create Dashboard)
 
 ข้อมูลทางสถิติการเข้าพักของแขกและแสดงรายได้เฉลี่ยการขายห้องพักในแต่ละวัน
 โดยจะแสดงข้อมูลดังต่อไปนี้
